@@ -1,0 +1,1706 @@
+[
+  {
+    "order_id": 1,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$4,270.00",
+    "Date": "01/06/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 2,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$8,239.00",
+    "Date": "01/07/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 3,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$617.00",
+    "Date": "01/08/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 4,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$8,384.00",
+    "Date": "01/10/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 5,
+    "Product": "Beans",
+    "Category": "Vegetables",
+    "Amount": "$2,626.00",
+    "Date": "01/10/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 6,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$3,610.00",
+    "Date": "01/11/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 7,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$9,062.00",
+    "Date": "01/11/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 8,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$6,906.00",
+    "Date": "01/16/16",
+    "Country": "New Zealand"
+  },
+  {
+    "order_id": 9,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$2,417.00",
+    "Date": "01/16/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 10,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$7,431.00",
+    "Date": "01/16/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 11,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$8,250.00",
+    "Date": "01/16/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 12,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$7,012.00",
+    "Date": "01/18/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 13,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$1,903.00",
+    "Date": "01/20/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 14,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$2,824.00",
+    "Date": "01/22/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 15,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$6,946.00",
+    "Date": "01/24/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 16,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$2,320.00",
+    "Date": "01/27/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 17,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$2,116.00",
+    "Date": "01/28/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 18,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$1,135.00",
+    "Date": "01/30/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 19,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$3,595.00",
+    "Date": "01/30/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 20,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$1,161.00",
+    "Date": "02/02/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 21,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$2,256.00",
+    "Date": "02/04/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 22,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$1,004.00",
+    "Date": "02/11/16",
+    "Country": "New Zealand"
+  },
+  {
+    "order_id": 23,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$3,642.00",
+    "Date": "02/14/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 24,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$4,582.00",
+    "Date": "02/17/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 25,
+    "Product": "Beans",
+    "Category": "Vegetables",
+    "Amount": "$3,559.00",
+    "Date": "02/17/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 26,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$5,154.00",
+    "Date": "02/17/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 27,
+    "Product": "Mango",
+    "Category": "Fruit",
+    "Amount": "$7,388.00",
+    "Date": "02/18/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 28,
+    "Product": "Beans",
+    "Category": "Vegetables",
+    "Amount": "$7,163.00",
+    "Date": "02/18/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 29,
+    "Product": "Beans",
+    "Category": "Vegetables",
+    "Amount": "$5,101.00",
+    "Date": "02/20/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 30,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$7,602.00",
+    "Date": "02/21/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 31,
+    "Product": "Mango",
+    "Category": "Fruit",
+    "Amount": "$1,641.00",
+    "Date": "02/22/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 32,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$8,892.00",
+    "Date": "02/23/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 33,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$2,060.00",
+    "Date": "02/29/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 34,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$1,557.00",
+    "Date": "02/29/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 35,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$6,509.00",
+    "Date": "03/01/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 36,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$5,718.00",
+    "Date": "03/04/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 37,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$7,655.00",
+    "Date": "03/05/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 38,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$9,116.00",
+    "Date": "03/05/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 39,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$2,795.00",
+    "Date": "03/15/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 40,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$5,084.00",
+    "Date": "03/15/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 41,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$8,941.00",
+    "Date": "03/15/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 42,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$5,341.00",
+    "Date": "03/16/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 43,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$135.00",
+    "Date": "03/19/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 44,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$9,400.00",
+    "Date": "03/19/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 45,
+    "Product": "Beans",
+    "Category": "Vegetables",
+    "Amount": "$6,045.00",
+    "Date": "03/21/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 46,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$5,820.00",
+    "Date": "03/22/16",
+    "Country": "New Zealand"
+  },
+  {
+    "order_id": 47,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$8,887.00",
+    "Date": "03/23/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 48,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$6,982.00",
+    "Date": "03/24/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 49,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$4,029.00",
+    "Date": "03/26/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 50,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$3,665.00",
+    "Date": "03/26/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 51,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$4,781.00",
+    "Date": "03/29/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 52,
+    "Product": "Mango",
+    "Category": "Fruit",
+    "Amount": "$3,663.00",
+    "Date": "03/30/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 53,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$6,331.00",
+    "Date": "04/01/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 54,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$4,364.00",
+    "Date": "04/01/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 55,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$607.00",
+    "Date": "04/03/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 56,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$1,054.00",
+    "Date": "04/06/16",
+    "Country": "New Zealand"
+  },
+  {
+    "order_id": 57,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$7,659.00",
+    "Date": "04/06/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 58,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$277.00",
+    "Date": "04/12/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 59,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$235.00",
+    "Date": "04/17/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 60,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$1,113.00",
+    "Date": "04/18/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 61,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$1,128.00",
+    "Date": "04/21/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 62,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$9,231.00",
+    "Date": "04/22/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 63,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$4,387.00",
+    "Date": "04/23/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 64,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$2,763.00",
+    "Date": "04/25/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 65,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$7,898.00",
+    "Date": "04/27/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 66,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$2,427.00",
+    "Date": "04/30/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 67,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$8,663.00",
+    "Date": "05/01/16",
+    "Country": "New Zealand"
+  },
+  {
+    "order_id": 68,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$2,789.00",
+    "Date": "05/01/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 69,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$4,054.00",
+    "Date": "05/02/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 70,
+    "Product": "Mango",
+    "Category": "Fruit",
+    "Amount": "$2,262.00",
+    "Date": "05/02/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 71,
+    "Product": "Mango",
+    "Category": "Fruit",
+    "Amount": "$5,600.00",
+    "Date": "05/02/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 72,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$5,787.00",
+    "Date": "05/03/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 73,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$6,295.00",
+    "Date": "05/03/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 74,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$474.00",
+    "Date": "05/05/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 75,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$4,325.00",
+    "Date": "05/05/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 76,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$592.00",
+    "Date": "05/06/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 77,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$4,330.00",
+    "Date": "05/08/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 78,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$9,405.00",
+    "Date": "05/08/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 79,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$7,671.00",
+    "Date": "05/08/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 80,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$5,791.00",
+    "Date": "05/08/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 81,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$6,007.00",
+    "Date": "05/12/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 82,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$5,030.00",
+    "Date": "05/14/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 83,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$6,763.00",
+    "Date": "05/14/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 84,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$4,248.00",
+    "Date": "05/15/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 85,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$9,543.00",
+    "Date": "05/16/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 86,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$2,054.00",
+    "Date": "05/16/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 87,
+    "Product": "Beans",
+    "Category": "Vegetables",
+    "Amount": "$7,094.00",
+    "Date": "05/16/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 88,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$6,087.00",
+    "Date": "05/18/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 89,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$4,264.00",
+    "Date": "05/19/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 90,
+    "Product": "Mango",
+    "Category": "Fruit",
+    "Amount": "$9,333.00",
+    "Date": "05/20/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 91,
+    "Product": "Mango",
+    "Category": "Fruit",
+    "Amount": "$8,775.00",
+    "Date": "05/22/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 92,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$2,011.00",
+    "Date": "05/23/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 93,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$5,632.00",
+    "Date": "05/25/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 94,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$4,904.00",
+    "Date": "05/25/16",
+    "Country": "New Zealand"
+  },
+  {
+    "order_id": 95,
+    "Product": "Beans",
+    "Category": "Vegetables",
+    "Amount": "$1,002.00",
+    "Date": "05/25/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 96,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$8,141.00",
+    "Date": "05/26/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 97,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$3,644.00",
+    "Date": "05/26/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 98,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$1,380.00",
+    "Date": "05/26/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 99,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$8,354.00",
+    "Date": "05/26/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 100,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$5,182.00",
+    "Date": "05/27/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 101,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$2,193.00",
+    "Date": "05/27/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 102,
+    "Product": "Mango",
+    "Category": "Fruit",
+    "Amount": "$3,647.00",
+    "Date": "05/28/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 103,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$4,104.00",
+    "Date": "05/28/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 104,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$7,457.00",
+    "Date": "05/28/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 105,
+    "Product": "Mango",
+    "Category": "Fruit",
+    "Amount": "$3,767.00",
+    "Date": "05/29/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 106,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$4,685.00",
+    "Date": "05/30/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 107,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$3,917.00",
+    "Date": "06/04/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 108,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$521.00",
+    "Date": "06/04/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 109,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$5,605.00",
+    "Date": "06/10/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 110,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$9,630.00",
+    "Date": "06/11/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 111,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$6,941.00",
+    "Date": "06/20/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 112,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$7,231.00",
+    "Date": "06/20/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 113,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$8,891.00",
+    "Date": "06/23/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 114,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$107.00",
+    "Date": "06/25/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 115,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$4,243.00",
+    "Date": "06/26/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 116,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$4,514.00",
+    "Date": "06/27/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 117,
+    "Product": "Mango",
+    "Category": "Fruit",
+    "Amount": "$5,480.00",
+    "Date": "07/02/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 118,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$5,002.00",
+    "Date": "07/02/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 119,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$8,530.00",
+    "Date": "07/05/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 120,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$4,819.00",
+    "Date": "07/07/16",
+    "Country": "New Zealand"
+  },
+  {
+    "order_id": 121,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$6,343.00",
+    "Date": "07/11/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 122,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$2,318.00",
+    "Date": "07/13/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 123,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$220.00",
+    "Date": "07/20/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 124,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$6,341.00",
+    "Date": "07/20/16",
+    "Country": "New Zealand"
+  },
+  {
+    "order_id": 125,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$330.00",
+    "Date": "07/20/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 126,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$3,027.00",
+    "Date": "07/20/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 127,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$850.00",
+    "Date": "07/22/16",
+    "Country": "New Zealand"
+  },
+  {
+    "order_id": 128,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$8,986.00",
+    "Date": "07/23/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 129,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$3,800.00",
+    "Date": "07/25/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 130,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$5,751.00",
+    "Date": "07/28/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 131,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$1,704.00",
+    "Date": "07/29/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 132,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$7,966.00",
+    "Date": "07/30/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 133,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$852.00",
+    "Date": "07/31/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 134,
+    "Product": "Beans",
+    "Category": "Vegetables",
+    "Amount": "$8,416.00",
+    "Date": "07/31/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 135,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$7,144.00",
+    "Date": "08/01/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 136,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$7,854.00",
+    "Date": "08/01/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 137,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$859.00",
+    "Date": "08/03/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 138,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$8,049.00",
+    "Date": "08/12/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 139,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$2,836.00",
+    "Date": "08/13/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 140,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$1,743.00",
+    "Date": "08/19/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 141,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$3,844.00",
+    "Date": "08/23/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 142,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$7,490.00",
+    "Date": "08/24/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 143,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$4,483.00",
+    "Date": "08/25/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 144,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$7,333.00",
+    "Date": "08/27/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 145,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$7,654.00",
+    "Date": "08/28/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 146,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$3,944.00",
+    "Date": "08/29/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 147,
+    "Product": "Beans",
+    "Category": "Vegetables",
+    "Amount": "$5,761.00",
+    "Date": "08/29/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 148,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$6,864.00",
+    "Date": "09/01/16",
+    "Country": "New Zealand"
+  },
+  {
+    "order_id": 149,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$4,016.00",
+    "Date": "09/01/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 150,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$1,841.00",
+    "Date": "09/02/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 151,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$424.00",
+    "Date": "09/05/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 152,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$8,765.00",
+    "Date": "09/07/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 153,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$5,583.00",
+    "Date": "09/08/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 154,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$4,390.00",
+    "Date": "09/09/16",
+    "Country": "New Zealand"
+  },
+  {
+    "order_id": 155,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$352.00",
+    "Date": "09/09/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 156,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$8,489.00",
+    "Date": "09/11/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 157,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$7,090.00",
+    "Date": "09/11/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 158,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$7,880.00",
+    "Date": "09/15/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 159,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$3,861.00",
+    "Date": "09/18/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 160,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$7,927.00",
+    "Date": "09/19/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 161,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$6,162.00",
+    "Date": "09/20/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 162,
+    "Product": "Mango",
+    "Category": "Fruit",
+    "Amount": "$5,523.00",
+    "Date": "09/25/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 163,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$5,936.00",
+    "Date": "09/25/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 164,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$7,251.00",
+    "Date": "09/26/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 165,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$6,187.00",
+    "Date": "09/27/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 166,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$3,210.00",
+    "Date": "09/29/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 167,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$682.00",
+    "Date": "09/29/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 168,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$793.00",
+    "Date": "10/03/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 169,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$5,346.00",
+    "Date": "10/04/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 170,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$7,103.00",
+    "Date": "10/07/16",
+    "Country": "New Zealand"
+  },
+  {
+    "order_id": 171,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$4,603.00",
+    "Date": "10/10/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 172,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$8,160.00",
+    "Date": "10/16/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 173,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$7,171.00",
+    "Date": "10/23/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 174,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$3,552.00",
+    "Date": "10/23/16",
+    "Country": "New Zealand"
+  },
+  {
+    "order_id": 175,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$7,273.00",
+    "Date": "10/25/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 176,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$2,402.00",
+    "Date": "10/26/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 177,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$1,197.00",
+    "Date": "10/26/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 178,
+    "Product": "Beans",
+    "Category": "Vegetables",
+    "Amount": "$5,015.00",
+    "Date": "10/26/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 179,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$5,818.00",
+    "Date": "11/02/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 180,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$4,399.00",
+    "Date": "11/03/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 181,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$3,011.00",
+    "Date": "11/03/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 182,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$4,715.00",
+    "Date": "11/09/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 183,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$5,321.00",
+    "Date": "11/12/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 184,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$8,894.00",
+    "Date": "11/15/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 185,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$4,846.00",
+    "Date": "11/25/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 186,
+    "Product": "Broccoli",
+    "Category": "Vegetables",
+    "Amount": "$284.00",
+    "Date": "11/25/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 187,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$8,283.00",
+    "Date": "11/26/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 188,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$9,990.00",
+    "Date": "11/28/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 189,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$9,014.00",
+    "Date": "11/28/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 190,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$1,942.00",
+    "Date": "11/29/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 191,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$7,223.00",
+    "Date": "11/30/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 192,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$4,673.00",
+    "Date": "12/02/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 193,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$9,104.00",
+    "Date": "12/04/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 194,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$6,078.00",
+    "Date": "12/05/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 195,
+    "Product": "Beans",
+    "Category": "Vegetables",
+    "Amount": "$3,278.00",
+    "Date": "12/06/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 196,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$136.00",
+    "Date": "12/12/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 197,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$8,377.00",
+    "Date": "12/12/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 198,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$2,382.00",
+    "Date": "12/12/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 199,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$8,702.00",
+    "Date": "12/15/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 200,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$5,021.00",
+    "Date": "12/16/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 201,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$1,760.00",
+    "Date": "12/16/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 202,
+    "Product": "Banana",
+    "Category": "Fruit",
+    "Amount": "$4,766.00",
+    "Date": "12/18/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 203,
+    "Product": "Beans",
+    "Category": "Vegetables",
+    "Amount": "$1,541.00",
+    "Date": "12/19/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 204,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$2,782.00",
+    "Date": "12/20/16",
+    "Country": "United Kingdom"
+  },
+  {
+    "order_id": 205,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$2,455.00",
+    "Date": "12/20/16",
+    "Country": "Canada"
+  },
+  {
+    "order_id": 206,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$4,512.00",
+    "Date": "12/22/16",
+    "Country": "New Zealand"
+  },
+  {
+    "order_id": 207,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$8,752.00",
+    "Date": "12/22/16",
+    "Country": "Germany"
+  },
+  {
+    "order_id": 208,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$9,127.00",
+    "Date": "12/25/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 209,
+    "Product": "Apple",
+    "Category": "Fruit",
+    "Amount": "$1,777.00",
+    "Date": "12/28/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 210,
+    "Product": "Beans",
+    "Category": "Vegetables",
+    "Amount": "$680.00",
+    "Date": "12/28/16",
+    "Country": "France"
+  },
+  {
+    "order_id": 211,
+    "Product": "Orange",
+    "Category": "Fruit",
+    "Amount": "$958.00",
+    "Date": "12/29/16",
+    "Country": "United States"
+  },
+  {
+    "order_id": 212,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$2,613.00",
+    "Date": "12/29/16",
+    "Country": "Australia"
+  },
+  {
+    "order_id": 213,
+    "Product": "Carrots",
+    "Category": "Vegetables",
+    "Amount": "$339.00",
+    "Date": "12/30/16",
+    "Country": "Australia"
+  }
+]
